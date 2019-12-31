@@ -1,9 +1,12 @@
----
+<pre>
+<code>---</code>
+title: python Project
+date: 2019-01-13 11:11:11.000000000 +09:00
+tags: Jekyll
+author: guoqi
 layout: post
-title: For project online
----
-# 项目部署文档
----
+<code>---</code>
+</pre>
 ## 启动配置最简
 
 			uwsgi安装   编写uwsgi.ini文件   使用uwsgi --ini uwsgi.ini启动服务
