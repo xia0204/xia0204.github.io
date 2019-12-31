@@ -1,3 +1,7 @@
+---
+layout: post
+title: For python multiprocess
+---
 # Python的进程间通信
 进程间通讯有多种方式，包括信号，管道，消息队列，信号量，共享内存，socket等
 

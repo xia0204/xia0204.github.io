@@ -1,3 +1,7 @@
+---
+layout: post
+title: For project online
+---
 # 项目部署文档
 ---
 ## 启动配置最简
