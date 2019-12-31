@@ -1,7 +1,12 @@
----
+<pre>
+<code>---</code>
+title: python Process
+date: 2019-01-20 11:11:11.000000000 +09:00
+tags: Jekyll
+author: xx
 layout: post
-title: For python multiprocess
----
+<code>---</code>
+</pre>
 # Python的进程间通信
 进程间通讯有多种方式，包括信号，管道，消息队列，信号量，共享内存，socket等
 
